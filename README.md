@@ -10,7 +10,7 @@ This template is right for you if you are working on:
 
 Core features:
 
-- [Pre-configured Payload Config](#how-it-works)
+- [Pre-configured Config](#how-it-works)
 - [Authentication](#users-authentication)
 - [Access Control](#access-control)
 - [Layout Builder](#layout-builder)
