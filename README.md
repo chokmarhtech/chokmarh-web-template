@@ -4,27 +4,5 @@ This is the official [Website Template](https://chokmarhtechnologies.com). Use i
 
 This template is right for you if you are working on:
 
-- A personal or enterprise-grade website, blog, or portfolio
-- A content publishing platform with a fully featured publication workflow
 
-Core features:
-
-- [Pre-configured Config](#how-it-works)
-- [Authentication](#users-authentication)
-- [Access Control](#access-control)
-- [Layout Builder](#layout-builder)
-- [Draft Preview](#draft-preview)
-- [Live Preview](#live-preview)
-- [On-demand Revalidation](#on-demand-revalidation)
-- [SEO](#seo)
-- [Redirects](#redirects)
-- [Jobs and Scheduled Publishing](#jobs-and-scheduled-publish)
-- [Website](#website)
-
-## Quick Start
-
-To spin up this example locally, follow these steps:
-
-## Website
-
-This template includes a beautifully designed, production-ready front-end built with the [Next.js App Router](https://nextjs.org), served right alongside your Payload app in a instance. This makes it so that you can deploy both your backend and website where you need it.
+This template includes a beautifully designed, production-ready front-end built with the Next.JS, Typescript, Tailwind CSS served right alongside your in a instance. 
